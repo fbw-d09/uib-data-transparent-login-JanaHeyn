@@ -3,7 +3,7 @@ body
     height: 100vh;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.75)),
     url(./images/IMG_6412.jpeg);
-    background-size: auto;
+    background-size: cover;
     background-position: center;
     display: flex;
     justify-content: center;
